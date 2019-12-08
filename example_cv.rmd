@@ -1,0 +1,59 @@
+---
+name: Ms. Ruth Nthenya Wambua
+position: "Computer Scientist"
+address: "12 Strawberry Hill, Dublin 8 Éire/Ireland "
+phone: +353 12341111
+www: ruthdeshy.com
+email: "ruthdeshy@gmail.com"
+twitter: ruthdeshy
+github: ruthdeshy
+linkedin: ruthdeshy
+date: "`r format(Sys.time(), '%B %Y')`"
+output: vitae::awesomecv
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(vitae)
+```
+
+
+# WORK EXPERIENCE
+
+ * Trainer,  ITES-BPO  Certificate,  School  of  Computing  &  Informatics,  The  University  of Nairobi, Kenya 
+ * Senior ICT Officer (MIS), The University of Nairobi
+ * PHP Symfony Trainee, Jimma University, Ethiopia
+ * Retail Agent / Customer Experience Agent, Safaricom Ltd. Company
+ * Software Developer, Vega Software Ltd. Company 
+
+# EDUCATION AND TRAINING
+
+ * 2011-2013 Master of Science in Computer Science, School of Computing and Informatics 
+ * 2003-2007 Bachelor of Science in Computer Science, School of Computing and Informatics
+ * 1998-2001 Kenya Certificate of Secondary Education,Precious Blood Girls Secondary School Kilungu.
+ * 1990-1997 Kenya Certificate of Primary Education,Unoa Primary School.
+
+
+# LANGUAGES
+
+ * English (Excellent) 
+ * Kiswahili (Excellent) 
+ * Kikamba (Excellent)
+ 
+ 
+# COURSES & DIPLOMAS
+
+ * 2003 XML Diploma. W3Schools.
+ * 2001 Internet Programming Course.
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
